@@ -1,0 +1,15 @@
+D:\PracticeProblem1\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.exe
+D:\PracticeProblem1\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.deps.json
+D:\PracticeProblem1\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.runtimeconfig.json
+D:\PracticeProblem1\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.dll
+D:\PracticeProblem1\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.pdb
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.AssemblyReference.cache
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfoInputs.cache
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfo.cs
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.CoreCompileInputs.cache
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.dll
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\refint\FlipCoin.dll
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.pdb
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.genruntimeconfig.cache
+D:\PracticeProblem1\FlipCoin\FlipCoin\obj\Debug\net6.0\ref\FlipCoin.dll
