@@ -1,0 +1,15 @@
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\bin\Debug\net6.0\PowerofTwo.exe
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\bin\Debug\net6.0\PowerofTwo.deps.json
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\bin\Debug\net6.0\PowerofTwo.runtimeconfig.json
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\bin\Debug\net6.0\PowerofTwo.dll
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\bin\Debug\net6.0\PowerofTwo.pdb
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.csproj.AssemblyReference.cache
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.AssemblyInfoInputs.cache
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.AssemblyInfo.cs
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.csproj.CoreCompileInputs.cache
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.dll
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\refint\PowerofTwo.dll
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.pdb
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\PowerofTwo.genruntimeconfig.cache
+D:\PracticeProblem1\PowerofTwo\PowerofTwo\obj\Debug\net6.0\ref\PowerofTwo.dll
