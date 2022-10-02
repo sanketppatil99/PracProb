@@ -1,0 +1,15 @@
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.exe
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.deps.json
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.runtimeconfig.json
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.dll
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.pdb
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.AssemblyReference.cache
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfoInputs.cache
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfo.cs
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.CoreCompileInputs.cache
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.dll
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\refint\HarmonicNumber.dll
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.pdb
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.genruntimeconfig.cache
+D:\PracticeProblem1\HarmonicNumber\HarmonicNumber\obj\Debug\net6.0\ref\HarmonicNumber.dll
